@@ -1,0 +1,5 @@
+---
+title: "Final Project Proposal"
+author: "Gabriel Fara-on"
+date: 2026-11-08
+---
