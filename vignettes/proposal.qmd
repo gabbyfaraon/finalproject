@@ -5,11 +5,17 @@ date: 2026-11-08
 ---
 
 ## CDC data on waterborne illnesses
+How does maternal cigarette smoking relate to infant birthweight?
 
+The population is all live births in 2025.
+
+Exposure variables include maternal smoking during pregnancy through the recorded cigarette counts. Unknown or missing responses will be excluded from the analysis.
+
+The outcome is infant birth weight in grams.
+
+Some confounders include maternal age, race, education (a common proxy for socioeconomic status), pre-existing hypertenstion and pre-existing diabetes.
 
 ## NBA Stats
-
-#### Question:
 How well does an NBA player's individual performance and their team's record predict whether or not they will be selected as an All-Star.
 
 The dataset will include player and team record data from the 1979-1980 NBA season through the 2025-2026 season.
